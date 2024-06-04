@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Anshu-K-Singh
+- 👋 Hi, I’m Anshu Singh
 - 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning Django
-- 😄 Pronouns:
+- 😄 Pronouns: he/him
 - ⚡ Fun fact:
 
 <!---
