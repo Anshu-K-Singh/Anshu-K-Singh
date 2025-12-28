@@ -1,19 +1,30 @@
-<p align="center">
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Anshu%20Singh&fontSize=45&fontAlignY=35&animation=twinkling"/>
 
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&size=35&duration=2000&pause=3&width=435&height=200&lines=Hey+there+!;Welcome+to+my+profile+!" alt="Typing SVG" /></a>
- 
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there+👋;Backend+Developer+⚙️;Python+%7C+Django+%7C+FastAPI;Building+APIs+that+Scale+🚀;Always+Learning+%26+Improving+✨" />
 
-<br></br>
+<br><br>
 
-<img align="right" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif">
+<!-- Cool Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
+</div>
 
-- 👋 Hi, I’m Anshu Singh
-  
+---
 
-<!---
-Anshu-K-Singh/Anshu-K-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 About Me
+
+```yaml
+name: Anshu Singh
+role: Backend Developer
+language: Python 🐍
+frameworks:
+  - Django
+  - FastAPI
+focus:
+  - REST APIs
+  - Backend Architecture
+  - Clean Code
