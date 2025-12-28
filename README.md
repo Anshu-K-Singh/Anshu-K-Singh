@@ -1,30 +1,36 @@
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Anshu%20Singh&fontSize=45&fontAlignY=35&animation=twinkling"/>
+<!-- Header -->
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Anshu%20Singh&fontSize=44&fontAlignY=35"/>
 
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there+👋;Backend+Developer+⚙️;Python+%7C+Django+%7C+FastAPI;Building+APIs+that+Scale+🚀;Always+Learning+%26+Improving+✨" />
+<!-- Auto-running Typing Animation (SVG, loops forever) -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=8A7CFF&center=true&vCenter=true&width=650&lines=Hey+there+!;Backend+Developer+🐍;Python+%7C+Django+%7C+FastAPI;Code+Clean+%26+Elegant" 
+/>
+
 
 <br><br>
 
-<!-- Cool Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+<!-- Real looping GIF (no play button) -->
+<img
+src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/coding.gif"
+width="300"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+### 👨‍💻 About Me
 
 ```yaml
 name: Anshu Singh
 role: Backend Developer
-language: Python 🐍
+language: Python
 frameworks:
   - Django
   - FastAPI
 focus:
   - REST APIs
-  - Backend Architecture
-  - Clean Code
+  - Clean Architecture
+  - Scalable Systems
